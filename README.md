@@ -14,57 +14,57 @@ x install rust-anything
 
 ## Code insight
 
-Total: **239,735** lines of code across **1398** files in the top 5 languages.
+Total: **247,445** lines of code across **1406** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 182,857 | 1,914 | 9,302 | 525 |
-| Json | 24,947 | 0 | 0 | 134 |
-| JavaScript | 8,857 | 461 | 318 | 96 |
+| Rust | 190,399 | 2,033 | 9,739 | 532 |
+| Json | 24,966 | 0 | 0 | 135 |
+| JavaScript | 8,876 | 461 | 319 | 96 |
 | Toml | 7,455 | 19 | 1,617 | 578 |
-| Tsx | 3,415 | 1 | 203 | 65 |
+| Tsx | 3,420 | 1 | 203 | 65 |
 
 ## Source
 
 - **Upstream**: <https://github.com/erkamyaman/rust-anything>
 - **Homepage**: <rust-anything.com>
-- **License**: MIT
+- **License**: Apache-2.0
 
 ## Release
 
-- **Latest**: `v4.1.0` (2026-11-24)
-- **Last commit**: 2026-11-25
+- **Latest**: `v5.0.1` (2026-11-26)
+- **Last commit**: 2026-11-26
 - **Assets in release**: 6
 
 ## Popularity
 
-- **Stars**: 9,398 · **Forks**: 771 · **Open issues**: 207 · **Contributors**: 42
+- **Stars**: 9,771 · **Forks**: 796 · **Open issues**: 274 · **Contributors**: 47
 
 ## Totals (cumulative)
 
-- **Releases**: 19 · **Merged PRs**: 239 · **Open PRs**: 5 · **Closed issues**: 190 · **Open issues**: 17 · **Commits**: 524
+- **Releases**: 22 · **Merged PRs**: 342 · **Open PRs**: 2 · **Closed issues**: 270 · **Open issues**: 4 · **Commits**: 644
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 19 | 239 | 5 | 190 | 16 | 470 |
-| last60d | 2026-09-26 | 19 | 239 | 5 | 190 | 16 | 470 |
-| 90d | 2026-08-27 | 19 | 239 | 5 | 190 | 16 | 470 |
-| last180d | 2026-05-29 | 19 | 239 | 5 | 190 | 16 | 470 |
-| 360d | 2025-11-30 | 19 | 239 | 5 | 190 | 16 | 470 |
-| last720d | 2024-12-05 | 19 | 239 | 5 | 190 | 16 | 524 |
+| 30d | 2026-10-27 | 22 | 342 | 2 | 270 | 3 | 584 |
+| last60d | 2026-09-27 | 22 | 342 | 2 | 270 | 3 | 584 |
+| 90d | 2026-08-28 | 22 | 342 | 2 | 270 | 3 | 584 |
+| last180d | 2026-05-30 | 22 | 342 | 2 | 270 | 3 | 584 |
+| 360d | 2025-12-01 | 22 | 342 | 2 | 270 | 3 | 584 |
+| last720d | 2024-12-06 | 22 | 342 | 2 | 270 | 3 | 644 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [rust-anything-v4.1.0-aarch64-apple-darwin.tar.gz](https://github.com/erkamyaman/rust-anything/releases/download/v4.1.0/rust-anything-v4.1.0-aarch64-apple-darwin.tar.gz) | 5.6 MiB | `native/darwin/arm64` |
-| [rust-anything-v4.1.0-aarch64-unknown-linux-gnu.tar.gz](https://github.com/erkamyaman/rust-anything/releases/download/v4.1.0/rust-anything-v4.1.0-aarch64-unknown-linux-gnu.tar.gz) | 5.8 MiB | `native/linux/arm64/glibc` |
-| [rust-anything-v4.1.0-x86_64-apple-darwin.tar.gz](https://github.com/erkamyaman/rust-anything/releases/download/v4.1.0/rust-anything-v4.1.0-x86_64-apple-darwin.tar.gz) | 5.8 MiB | `native/darwin/x64` |
-| [rust-anything-v4.1.0-x86_64-pc-windows-msvc.zip](https://github.com/erkamyaman/rust-anything/releases/download/v4.1.0/rust-anything-v4.1.0-x86_64-pc-windows-msvc.zip) | 5.3 MiB | `native/win/x64` |
-| [rust-anything-v4.1.0-x86_64-unknown-linux-gnu.tar.gz](https://github.com/erkamyaman/rust-anything/releases/download/v4.1.0/rust-anything-v4.1.0-x86_64-unknown-linux-gnu.tar.gz) | 6.0 MiB | `native/linux/x64/glibc` |
-| [SHA256SUMS](https://github.com/erkamyaman/rust-anything/releases/download/v4.1.0/SHA256SUMS) | 582 B | `other` |
+| [rust-anything-v5.0.1-aarch64-apple-darwin.tar.gz](https://github.com/erkamyaman/rust-anything/releases/download/v5.0.1/rust-anything-v5.0.1-aarch64-apple-darwin.tar.gz) | 6.0 MiB | `native/darwin/arm64` |
+| [rust-anything-v5.0.1-aarch64-unknown-linux-gnu.tar.gz](https://github.com/erkamyaman/rust-anything/releases/download/v5.0.1/rust-anything-v5.0.1-aarch64-unknown-linux-gnu.tar.gz) | 6.2 MiB | `native/linux/arm64/glibc` |
+| [rust-anything-v5.0.1-x86_64-apple-darwin.tar.gz](https://github.com/erkamyaman/rust-anything/releases/download/v5.0.1/rust-anything-v5.0.1-x86_64-apple-darwin.tar.gz) | 6.1 MiB | `native/darwin/x64` |
+| [rust-anything-v5.0.1-x86_64-pc-windows-msvc.zip](https://github.com/erkamyaman/rust-anything/releases/download/v5.0.1/rust-anything-v5.0.1-x86_64-pc-windows-msvc.zip) | 5.7 MiB | `native/win/x64` |
+| [rust-anything-v5.0.1-x86_64-unknown-linux-gnu.tar.gz](https://github.com/erkamyaman/rust-anything/releases/download/v5.0.1/rust-anything-v5.0.1-x86_64-unknown-linux-gnu.tar.gz) | 6.4 MiB | `native/linux/x64/glibc` |
+| [SHA256SUMS](https://github.com/erkamyaman/rust-anything/releases/download/v5.0.1/SHA256SUMS) | 582 B | `other` |
 
 ## Improve this data
 
@@ -75,4 +75,4 @@ Install metadata for rust-anything lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T09:55:41Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T09:11:12Z._
