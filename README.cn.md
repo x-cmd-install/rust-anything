@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-Rewrite your whole app in Rust, one piece at a time, checked against the original's recorded behavior at every step. CLIs, HTTP servers and libraries in TypeScript, Python, C, Go, Ruby and Java.
+Rewrite your app in Rust, piece by piece, checked against the original at every step. Works with TypeScript, JavaScript, Python, Go, Ruby, Java, C, PHP, C#, Kotlin and PowerShell.
 
 [![x-cmd/install — rust-anything Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/rust-anything.svg?lang=zh)](https://x-cmd.com/install/rust-anything)
 
@@ -14,46 +14,46 @@ x install rust-anything
 
 ## 代码洞察
 
-合计: **247,445** 行代码（覆盖前 5 种语言、共 **1406** 个文件）。
+合计: **250,213** 行代码（覆盖前 5 种语言、共 **1407** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 190,399 | 2,033 | 9,739 | 532 |
-| Json | 24,966 | 0 | 0 | 135 |
-| JavaScript | 8,876 | 461 | 319 | 96 |
+| Rust | 192,322 | 2,104 | 9,816 | 532 |
+| Json | 24,789 | 0 | 0 | 135 |
+| JavaScript | 8,995 | 461 | 326 | 98 |
 | Toml | 7,455 | 19 | 1,617 | 578 |
-| Tsx | 3,420 | 1 | 203 | 65 |
+| Tsx | 3,376 | 1 | 202 | 64 |
 
 ## 源代码
 
 - **上游仓库**: <https://github.com/erkamyaman/rust-anything>
-- **官网**: <rust-anything.com>
+- **官网**: <https://rustanything.ai>
 - **许可证**: Apache-2.0
 
 ## 发布
 
 - **最新版本**: `v5.0.1` (2026-11-26)
-- **最近提交**: 2026-11-26
+- **最近提交**: 2026-11-27
 - **Release 含资产**: 6 个
 
 ## 流行度
 
-- **Star**: 9,771 · **Fork**: 796 · **开放 issue**: 274 · **贡献者**: 47
+- **Star**: 10,489 · **Fork**: 854 · **开放 issue**: 319 · **贡献者**: 53
 
 ## 累计统计
 
-- **发布数**: 22 · **已合并 PR**: 342 · **开放 PR**: 2 · **已关闭 issue**: 270 · **开放 issue**: 4 · **提交数**: 644
+- **发布数**: 22 · **已合并 PR**: 378 · **开放 PR**: 0 · **已关闭 issue**: 299 · **开放 issue**: 20 · **提交数**: 705
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 22 | 342 | 2 | 270 | 3 | 584 |
-| last60d | 2026-09-27 | 22 | 342 | 2 | 270 | 3 | 584 |
-| 90d | 2026-08-28 | 22 | 342 | 2 | 270 | 3 | 584 |
-| last180d | 2026-05-30 | 22 | 342 | 2 | 270 | 3 | 584 |
-| 360d | 2025-12-01 | 22 | 342 | 2 | 270 | 3 | 584 |
-| last720d | 2024-12-06 | 22 | 342 | 2 | 270 | 3 | 644 |
+| 30d | 2026-10-28 | 22 | 378 | 0 | 299 | 19 | 645 |
+| last60d | 2026-09-28 | 22 | 378 | 0 | 299 | 19 | 645 |
+| 90d | 2026-08-29 | 22 | 378 | 0 | 299 | 19 | 645 |
+| last180d | 2026-05-31 | 22 | 378 | 0 | 299 | 19 | 645 |
+| 360d | 2025-12-02 | 22 | 378 | 0 | 299 | 19 | 645 |
+| last720d | 2024-12-07 | 22 | 378 | 0 | 299 | 19 | 705 |
 
 ## Release 资产
 
@@ -75,4 +75,4 @@ rust-anything 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261126.yml` · 2026-11-26T09:11:13Z._
+_数据快照: `data/card/261127.yml` · 2026-11-27T10:00:08Z._
